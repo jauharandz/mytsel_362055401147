@@ -1,16 +1,4 @@
-# mytsel
+# mytsel_362055401147_JauharaNadaDzikria
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022-03-02-22-33-07-24](https://user-images.githubusercontent.com/100394405/156395601-3fb91582-abad-4de3-92f0-c7070b093414.jpg)
+![Screenshot_2022-03-02-22-33-19-36](https://user-images.githubusercontent.com/100394405/156395607-d9701226-6385-4a7b-a387-c7f5be23d97e.jpg)
